@@ -1,1 +1,3 @@
 # This notebook will be mainly used for my Cousera Data Science capstone project.
+import pandas as pd
+import numpy as np
